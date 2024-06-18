@@ -9,7 +9,6 @@ The data used for the experiments of the paper should be downloaded from the  **
 | sMRI      | 80x100x80       |
 | fMRI   | 116x90        |
 | SNP   | 116x90       |
-|
 
 ## Requirements
 - python 3.8
