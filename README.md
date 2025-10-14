@@ -1,5 +1,5 @@
 # Paper
-Title: Multi-scale Dynamic Cross-Modal Fusion Attention Network Based on Imaging Genetic Information: Applications in Alzheimer's Disease Diagnosis and Explainability Analysis
+Title: Lesion-Aware Attentive Fusion of Imaging Genetics Data for Explainable Alzheimer's Disease Diagnosis
 
 ## Dataset
 The data used for the experiments of the paper should be downloaded from the  **[ADNI](https://adni.loni.usc.edu/)**.
