@@ -1,5 +1,5 @@
 # Paper
-Title: Lesion-Aware Attentive Fusion of Imaging Genetics Data for Explainable Alzheimer's Disease Diagnosis
+Title: Multi-modal Mapping in Imaging Genetics for Explainable Alzheimer's Disease Diagnosis
 
 ## Dataset
 The data used for the experiments of the paper should be downloaded from the  **[ADNI](https://adni.loni.usc.edu/)**.
